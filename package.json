@@ -2,8 +2,9 @@
   "name": "losik-s-simple-theme",
   "displayName": "Losik's simple theme",
   "description": "Simple theme inspired by default dark made for my custom use with my prefered colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "OndrejLosensky",
+  "icon": "icon.png",
   "repository": "https://github.com/OndrejLosensky/losiks-theme",
   "engines": {
     "vscode": "^1.87.0"
