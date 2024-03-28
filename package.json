@@ -1,0 +1,21 @@
+{
+  "name": "losik-s-simple-theme",
+  "displayName": "Losik's simple theme",
+  "description": "Simple theme inspired by default dark made for my custom use with my prefered colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Losik's theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Losik's theme-color-theme.json"
+      }
+    ]
+  }
+}
