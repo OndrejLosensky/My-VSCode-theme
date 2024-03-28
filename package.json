@@ -2,7 +2,7 @@
   "name": "losik-s-simple-theme",
   "displayName": "Losik's simple theme",
   "description": "Simple theme inspired by default dark made for my custom use with my prefered colors",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.87.0"
   },
