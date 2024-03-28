@@ -3,6 +3,7 @@
   "displayName": "Losik's simple theme",
   "description": "Simple theme inspired by default dark made for my custom use with my prefered colors",
   "version": "1.0.0",
+  "repository": "https://github.com/OndrejLosensky/losiks-theme",
   "engines": {
     "vscode": "^1.87.0"
   },
