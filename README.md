@@ -22,4 +22,6 @@ Type "Color Theme" and press Enter.
 Select "Losik's Theme" from the list of available themes.
 
 ## Feedback
+**If you like this theme please star the repo👍**
+
 If you have any feedback or suggestions for improvements, feel free to open an issue on GitHub or reach out to me directly. My email is losenskyondrej@gmail.com
